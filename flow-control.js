@@ -2,7 +2,7 @@ function basicTeenager(age) {
 
 }
 
-function teenager(15) {
+function teenager(age) {
 
 }
 
